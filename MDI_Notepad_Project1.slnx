@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../MDI_Notepad_Test/MDI_Notepad_Test.vcxproj" Id="366ac4d5-f19b-4f84-8fb4-85d0ee72d382" />
+  <Project Path="MDI_Notepad_Project1.vcxproj" />
+</Solution>
